@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": "3998",
+      "username": "qezezbgbhnh",
+      "email": "qezyho@mailinator.com",
+      "password": "Deleniti nulla provi",
+      "gender": "female",
+      "hobby": [
+        "Dance",
+        "Writing"
+      ],
+      "address": "Ex itaque fugiat en",
+      "city": "surat"
+    },
+    {
+      "id": "ed61",
+      "username": "macaxaqi",
+      "email": "ticynifop@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "male",
+      "hobby": [
+        "Writing"
+      ],
+      "address": "Ut eius dolore sunt",
+      "city": "pune"
+    }
+  ],
+  "admin": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
